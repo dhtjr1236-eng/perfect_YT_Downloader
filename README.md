@@ -5,3 +5,10 @@ YT Downloader Ultra is a powerful yet simple tool that lets you download free Yo
 
 Begin by installing the necessary modules using the guide file. After that, execute the main file to launch the program
 - Please execute python guide_auto_install.py
+
+# main
+
+- Download the file YT_Ultra_dist.zip.
+- Extract (unzip) the archive to a folder of your choice.
+- Inside the extracted folder, locate YT_Downloader_Ultra.exe.
+- Double‑click the exe file to run the program
