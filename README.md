@@ -8,7 +8,7 @@ Begin by installing the necessary modules using the guide file. After that, exec
 
 # main
 
-- Download the file YT_Downloader_upload.zip.
+- Download the file YT_Downloader_upload.zip.(To check your latest release file)
 - Extract (unzip) the archive to a folder of your choice.
 - Inside the extracted folder, locate YT_Downloader_Ultra.exe.
 - Double‑click the exe file to run the program
