@@ -1,6 +1,7 @@
 # Perfect YT Downloader
 
 The executable file is already included in the **Releases** package.
+If needed, run guide_auto_install.py to check your environment and install the required modules.
 
 ## Quick Start
 
