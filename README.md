@@ -1,14 +1,15 @@
-# perfect_YT_Downloader
-YT Downloader Ultra is a powerful yet simple tool that lets you download free YouTube videos in the format and folder of your choice by selecting the codec. While the instructions are primarily in Korean, the interface is intuitive enough that anyone can use it with ease—even without knowing the language.
+# Perfect YT Downloader
 
-# guide
+The executable file is already included in the **Releases** package.
 
-Begin by installing the necessary modules using the guide file. After that, execute the main file to launch the program
-- Please execute python guide_auto_install.py
+## Quick Start
 
-# main
+1. Go to the **Releases** section of this repository.
+2. Download the latest `.zip` file.
+3. Extract it to a folder of your choice.
+4. Run `YT_Downloader_Ultra.exe`.
 
-- Download the file YT_Downloader_upload.zip.(To check your latest release file)
-- Extract (unzip) the archive to a folder of your choice.
-- Inside the extracted folder, locate YT_Downloader_Ultra.exe.
-- Double‑click the exe file to run the program
+## Notes
+
+- No additional installation is required for the release version.
+- The interface is mainly in Korean, but it is simple and easy to follow.
